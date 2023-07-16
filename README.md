@@ -10,3 +10,4 @@ image.conv = ConvolutePixels(image,20)
 image.prepped = PrepareDiceMap(image.conv, exposure.increase = 1)
 PlotDiceMap(image.prepped, 0.5)
 ```
+![](Rpot.png)
