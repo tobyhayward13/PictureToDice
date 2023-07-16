@@ -1,0 +1,12 @@
+Package: PictureToDice
+Type: Package
+Title: Convert PNG images to Dice Maps
+Version: 0.1.0
+Author: Toby Hayward
+Maintainer: The package maintainer <tobyhayward13@gmail.com>
+Description: A package of functions that convert a PNG image to a dice map plot that can be printed and altered.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: png
+RoxygenNote: 7.2.3
