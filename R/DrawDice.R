@@ -43,4 +43,5 @@ DrawDice <- function(n, pointsize = 0.5) {
   else if (n == 6) {
     points(rep(c(2,4),3),rep(2:4, each = 2), pch = 19, cex = pointsize)
   }
+  box()
 }
